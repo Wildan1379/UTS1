@@ -37,7 +37,7 @@
     <!-- bagian toolbar -->
     <nav class="navbar navbar-dark navbar-expand-lg bg-primary">
       <div class="container-fluid">
-        <a class="navbar-brand" href="/Tes/public/index.html">AMOR ID</a>
+        <a class="navbar-brand" href="/UTS1/public/index.html">AMOR ID</a>
         <button
           class="navbar-toggler"
           type="button"
@@ -54,18 +54,18 @@
           <div class="me-auto"></div>
           <ul class="navbar-nav mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="/Tes/public/menu_product.html"
+              <a class="nav-link" aria-current="page" href="/UTS1/public/menu_product.html"
                 >PRODUK</a
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/Tes/public/menu_feature.html">PROMO</a>
+              <a class="nav-link" href="/UTS1/public/menu_feature.html">PROMO</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/Tes/public/menu_about.html">TENTANG KAMI</a>
+              <a class="nav-link" href="/UTS1/public/menu_about.html">TENTANG KAMI</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/Tes/public/menu_contact.html">KONTAK</a>
+              <a class="nav-link" href="/UTS1/public/menu_contact.html">KONTAK</a>
             </li>
           </ul>
         </div>
@@ -76,15 +76,15 @@
       <h1>Tentang Kami</h1>
      <p>
 
-Amor store menawarkan perlengkapan terbaru dan terbaik yang ditawarkan adidas dalam setiap momen.
-Saat Anda berbelanja di Amor, Anda bisa yakin bahwa selama lebih dari tujuh dekade, produk Amor selalu mengutamakan keunggulan.
-Ciri khas kami adalah selalu mempersembahkan produk dengan standar kualitas, teknologi, dan inovasi terbaik.
+Sayuran merupakan sumber vitamin dan mineral yang bermanfaat bagi kesehatan tubuh. Namun, kebaikan dari sayuran biasanya lebih optimal diperoleh saat 
+sayuran diolah dalam keadaan segar. Untuk itu, penting mengetahui cara memilih sayuran segar yang baik. Maka dari itu kita menyediakan
+website yang memudahkan untuk mendapatkan sayur segar dengan harga terjangkau dan hanya dengan duduk di rumah saja anda bisa mendapatkannya.
 
       </p>
     </div>
 
     <div class="footer">
-      <div>Copyright @zulvandhika</div>
+      <div>Copyright @freshvegetable</div>
     </div>
 
     <script
